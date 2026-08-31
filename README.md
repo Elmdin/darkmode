@@ -186,3 +186,7 @@ python -m umbra compare       score presets against real dark themes
 The colour pipeline (`colormatrix`, `transforms`, `geometry`) is pure Python with no
 Windows dependency, which is why it can be tested on any machine. `SPEC.md` has the full
 contract, invariants, and edge cases.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
