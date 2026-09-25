@@ -1,6 +1,6 @@
 # Umbra
 
-*Real-time dark mode for Windows — the `3MagicLabs/darkmode` project.*
+*Real-time dark mode for Windows — the `Elmdin/darkmode` project.*
 
 Real-time dark mode over your whole laptop screen, or any rectangle of it that you drag out.
 
@@ -98,7 +98,7 @@ dependencies. (The Magnification API does not work under WOW64, so 32-bit Python
 cannot do this.)
 
 ```
-git clone https://github.com/3MagicLabs/darkmode.git
+git clone https://github.com/Elmdin/darkmode.git
 cd darkmode
 umbra.bat
 ```
